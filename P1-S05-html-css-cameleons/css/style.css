@@ -1,0 +1,38 @@
+body{
+    margin: auto;
+    width: 900px;
+    font-family: 'Open Sans', sans-serif;
+    background: #2f3848
+}
+
+
+h1{
+    text-align: center;
+    background-color: salmon;
+}
+
+h2{
+ color: red;   
+}
+
+.Grande_image{
+    height: 100px;
+    margin: auto;
+    padding: 3px;
+}
+
+.balise1{
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    }
+
+.Galerie{
+    display: flex;
+     margin: 0.5em;
+    padding: 3px;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+}
